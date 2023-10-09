@@ -1,0 +1,13 @@
+# Virtual environment
+venv/
+
+# Compiled Python files
+__pycache__/
+
+# Log files
+*.log
+
+# CSV files (if you don't want to version control CSV outputs)
+*.csv
+iam_user_info.csv
+iam_user_info.json
